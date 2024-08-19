@@ -1,0 +1,18 @@
+{
+  "name": "07_telegram_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.4",
+    "dotenv": "^16.4.5",
+    "grammy": "^1.28.0",
+    "nodemon": "^3.1.4",
+    "openweather-apis": "^4.5.0"
+  },
+  "description": ""
+}
